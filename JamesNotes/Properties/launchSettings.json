@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JamesNotes": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "VP_NetCore": "Development"
+      }
+    }
+  }
+}
